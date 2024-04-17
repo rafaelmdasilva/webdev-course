@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(0deg, rgba(245,245,245,1) 0%, rgba(105,90,205,1) 100%);
+    color: whitesmoke;
+    text-align: center;
+    height: 100vh;
+    text-shadow: 2px 2px 4px black;
+}
+
+#results {
+    font-weight: 800;
+    font-size: 1.1rem;
+}
